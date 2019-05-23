@@ -1,0 +1,55 @@
+.crystal-img{
+    width: 75px;
+    height: 75px;
+}
+body,html{
+    height: 100%;
+}
+body{
+    background-image: url("../images/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 1000px; */
+}
+
+.title-div{
+    background: white;
+    width: 379px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.instructions{
+    background: white;
+    width: 379px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.random-number{
+    background: white;
+    width: 329px;
+    height: 80px;
+    margin-bottom: 10px;
+    text-align: center; 
+    float: left;
+    vertical-align: middle;
+    line-height: 80px;
+}
+.wins-loses{
+    background: white;
+    width: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+    float: left;
+}
+.btns{
+    display: block;
+    margin-top: 100px;
+}
+.score{
+    background: white;
+    width: 339px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
